@@ -4,6 +4,9 @@ baxter_task1
 baxter_task1
 ============
 
+Output image: http://oi58.tinypic.com/bfl3z9.jpg
+Demo Video: http://youtu.be/qluz3UOxYwg
+
 The pose I choose is: 
 position:
     x=0.599453313685
